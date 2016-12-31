@@ -1,4 +1,12 @@
 
+
+
+"""This is a neural network which is made just from input and output given by another neural network,,,,,,,,,,The results are 
+TERRIBLE 9% accuracy""" 
+
+
+
+
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
